@@ -4,8 +4,5 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/placeholder_background"
     tools:context="com.lazada.displayskeletonscreen.MainActivity">
-
-
 </RelativeLayout>
